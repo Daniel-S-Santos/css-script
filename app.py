@@ -38,6 +38,5 @@ res = json.dumps(arquivos)
 def reqArquivos():    
     return res
 
-
 if __name__ == "__main__":
     app.run(host="",port=,debug=True)
