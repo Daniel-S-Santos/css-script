@@ -40,4 +40,4 @@ def reqArquivos():
 
 
 if __name__ == "__main__":
-    app.run(host="10.1.2.84",port=3788,debug=True)
+    app.run(host="",port=,debug=True)
